@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yum:home|Door43 (yum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yum|d43-yum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yum/archive/master.zip|d43-yum.zip]]
+
+**Recent Changes**
+{{changes>ns = yum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yum|Ethnologue data]]
+
